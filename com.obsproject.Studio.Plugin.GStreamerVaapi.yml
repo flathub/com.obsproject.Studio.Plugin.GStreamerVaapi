@@ -21,10 +21,10 @@ modules:
     sources:
       - type: git
         url: https://github.com/fzwoch/obs-vaapi.git
-        tag: 0.2.0
-        commit: 661e7aa9089ffa4917a947be2717ff5d87e6b90c
+        tag: 0.4.0
+        commit: c11156b038b7c1cc87910a506dcad3a320232f80
         x-checker-data:
-            type: git
-            tag-pattern: ^([\d.]+)
+          type: git
+          tag-pattern: ^([\d.]+)
       - type: file
         path: com.obsproject.Studio.Plugin.GStreamerVaapi.metainfo.xml
