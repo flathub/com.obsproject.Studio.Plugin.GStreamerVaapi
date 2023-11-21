@@ -2,7 +2,7 @@
 <component type="addon">
   <id>com.obsproject.Studio.Plugin.GStreamerVaapi</id>
   <extends>com.obsproject.Studio</extends>
-  <name>GStreamer VA-API Plugin</name>
+  <name>GStreamer VA-API</name>
   <summary>GStreamer-based VA-API encoder</summary>
   <url type="homepage">https://github.com/fzwoch/obs-vaapi</url>
   <releases>
