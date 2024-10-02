@@ -21,8 +21,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/fzwoch/obs-vaapi.git
-        tag: 0.4.1
-        commit: 21b0a45bc79e5ea461c0ebf7dd4eca1e4d126461
+        tag: 0.4.2
+        commit: 6b614a3979746aa9c0bf8ed16d139df8e336e472
         x-checker-data:
           type: git
           tag-pattern: ^([\d.]+)
